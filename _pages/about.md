@@ -20,4 +20,6 @@ Contact
 You can contact me through my email at ayush.pandhi@astro.utoronto.ca. 
 
 Work address:
-David A. Dunlap Department of Astronomy and Astrophysics, \nUniversity of Toronto, \n50 St. George Street, \nToronto, Ontario, Canada M5S 3H4
+David A. Dunlap Department of Astronomy and Astrophysics,<br>University of Toronto, \n
+50 St. George Street, \n
+Toronto, Ontario, Canada M5S 3H4
