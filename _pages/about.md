@@ -14,3 +14,7 @@ My research focuses on understanding the role of magnetic fields on all scales i
 Another avenue of research that I'm interested in is the role of magnetic fields in the process of star formation. Using dust polarization, we can trace the orientation of the local Galactic magnetic field in the plane of the sky and study how it aligns with the morphology and rotation of dense molecular cores (the progenitors of stars). 
 
 In the tab above, you can find more information about my research, a list of my publications, student projects that I've supervisied, teaching and outreach, and you can download my curriculum vitae.
+
+Contact
+======
+You can contact me through my email at ayush.pandhi@astro.utoronto.ca. My work address is: David A. Dunlap Department of Astronomy and Astrophysics, 50 St. George Street, Toronto, Ontario, Canada M5S 3H4.
