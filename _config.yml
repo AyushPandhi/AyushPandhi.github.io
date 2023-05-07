@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayush Pandhi"
   avatar           : "profile.png"
-  bio              : "PhD Candidate. Radio astronomer; fast radio bursts, pulsars, magnetism, and star formation."
+  bio              : "PhD Candidate. Radio astronomer; magnetism, fast radio bursts, pulsars, and star formation."
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
   ADS              : "https://ui.adsabs.harvard.edu/search/q=author%3A%22Pandhi%2C%20Ayush%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
