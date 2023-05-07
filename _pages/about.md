@@ -15,10 +15,10 @@ Another avenue of research that I'm interested in is the role of magnetic fields
 
 Much of my research is conducted as a part of scientific collaborations, working with researchers across the world. Currently I am a part of the:<br>Canadian Hydrogen Intensity Mapping fast radio burst ([CHIME/FRB](https://chime-experiment.ca/en)) collaboration,<br>Polarisation Sky Survey of the Universe's Magnetism ([POSSUM](https://askap.org/possum/)),<br>Interstellar Magnetic Field Inference Engine ([IMAGINE](https://www.astro.ru.nl/imagine/)) consortium,<br>and the Green Bank Ammonia Survey ([GAS](https://greenbankobservatory.org/science/gbt-surveys/gas-survey-2/)).
 
-In the tab above, you can find more information about my research, a list of my publications, student projects that I've supervised, teaching and outreach, and you can download my curriculum vitae.
+In the tab above, you can find more information about my research, a list of my publications, student projects that I've supervised, teaching and outreach, and you can download my _curriculum vitae_.
 
 Contact
 ======
-You can contact me through my email at ayush.pandhi@astro.utoronto.ca. 
+You can contact me through my email at [ayush.pandhi@astro.utoronto.ca](ayush.pandhi@astro.utoronto.ca). 
 
 Work address:<br>David A. Dunlap Department of Astronomy and Astrophysics,<br>University of Toronto,<br>50 St. George Street,<br>Toronto, Ontario, Canada M5S 3H4
