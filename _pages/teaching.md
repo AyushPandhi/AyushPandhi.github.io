@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Teaching and Outreach"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
-
-Teaching
-=====
 
 I'm very passionate about science outreach and teaching astronomy. During my time as a PhD student, I've been a teaching assistant for six different courses spanning a range of audiences and 
 expertise levels (from introductory courses for non-astronomy majors to in depth astronomy specialist courses). In some of these courses I have helped develop the content for, and taught, tutorials
