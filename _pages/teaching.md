@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-I'm very passionate about science outreach and teaching astronomy. During my time as a PhD student, I've been a teaching assistant for six different courses spanning a range of audiences and 
-expertise levels (from introductory courses for non-astronomy majors to in depth astronomy specialist courses). In some of these courses I have helped develop the content for, and taught, tutorials
-for classes with ~100 students.
+I am very passionate about science outreach and astronomy education. During my time as a PhD candidate, I have been a teaching assistant for seven different courses spanning a range of audiences and 
+expertise levels, from introductory courses for non-astronomy majors to in depth astronomy specialist courses. In some of these courses, I have helped develop content for, and taught, tutorials sessions
+to classes of over a hundred students.
 
 Outreach
 =====
@@ -29,4 +29,9 @@ Mentorship
 =====
 
 I developed and conducted the graduate -- undergraduate student mentorship program within my department to help upper year undergraduate students navigate the transition to graduate programs and/or 
-industry. This program has been successfully running in the department since Fall 2020 and has ~50 participants per year. I myself have also directly mentored three students as a part of the program.
+industry. This program has been successfully running in the department since Fall 2020 and has approximately 50 participants per year. I myself have also directly mentored three undergraduate students and one graduate student during my time in the program.
+
+Supervision
+=====
+
+So far, I have supervised one undergraduate research project with a second year student in the astronomy major at U of T on the use of different statistical interpolation techniques to estimate continuous maps of Galactic Faraday rotation measures from extragalactic point sources. This work highlights the advantages and disadvantages of commonly used interpolation techniques in astronomy and serves as a primer for large-sky rotation measure catalogues expected from ongoing radio surveys such as POSSUM.
