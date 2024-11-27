@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Below I list a selection of of my recent scientific publications that are either accepted by or submitted to a peer reviewed journal. You can find a full list of my publications on [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Pandhi%2C%20Ayush%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+Below I list a selection of of my recent scientific publications that are accepted for publication in peer reviewed journals. You can find a full list of my publications on [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Pandhi%2C%20Ayush%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
-1. Choosing interpolation techniques for reconstructing Galactic Faraday rotation, A. Khadir, **A. Pandhi** et al., 2024, ApJ, submitted.
+1. Choosing interpolation techniques for reconstructing Galactic Faraday rotation, A. Khadir, **A. Pandhi** et al., 2024, ApJ, in press.
 
 2. Polarization properties of the 128 apparently non-repeating fast radio bursts from the first CHIME/FRB baseband catalog, **A. Pandhi** et al., 2024, ApJ, 968, 2, [ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...968...50P/abstract).
 
